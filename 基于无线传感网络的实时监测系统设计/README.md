@@ -13,3 +13,4 @@
 信息采集模块由STC89C52芯片、温湿度传感器、气体传感器和ZigBee模块（B端）四部分组成，该模块在系统中主要承担传感器节点的功能。
 信息处理模块包括STM32F103RCT6芯片、ZigBee模块（A端）和WiFi模块三部分，该模块主要承担信息中转和处理的功能。
 终端显示模块由LCD显示屏、手机APP和电脑网页三部分组成，该模块能实时显示温湿度和有无危险气体，实现远程监测的功能。整个硬件系统架构如图1所示。
+<img src="https://github.com/Harrdy2018/Learning-README/blob/master/jsx.jpg" width="208px" height="242px" alt="金所炫">
